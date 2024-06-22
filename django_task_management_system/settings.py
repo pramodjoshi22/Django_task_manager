@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-#kfz(&+ra1by8r1fbqlg=z$3w+@a$iq&89&0w*+(o81@&=n#%p
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['.varcel.app']
 
 # Application definition
 
