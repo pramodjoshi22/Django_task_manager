@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-#kfz(&+ra1by8r1fbqlg=z$3w+@a$iq&89&0w*+(o81@&=n#%p
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-task-manager-three.vercel.app']
+ALLOWED_HOSTS = ['django-task-manager-pe06.onrender.com']
 
 # Application definition
 
